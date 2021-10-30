@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 
 -->
 ## ABOUT ME
-I learning
+I learning __c#, mysql, py__
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=0min0422&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0min0422&layout=compact)](https://github.com/0min0422/github-readme-stats)
 ********************
