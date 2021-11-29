@@ -11,10 +11,18 @@ Here are some ideas to get you started:
 
 ### Who Am I
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Study&badges=Python,Java,C)](https://github.com/kijepark)
-
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnwn8829">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=0min0422&show_icons=true&theme=solarized-light)
-********************
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0min0422&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/0min0422)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Tech&badges=Python,Java,C)](https://github.com/kijepark)
+
+- 🥇 I am a freshman majoring in computer
+- 🚅 My hometown is Jeonju, Jeollabuk-do in Korea
+
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=0min0422" height="142">
+
+### What I Like
+
+- 🔵 movie
+- 🍕 Pizza
