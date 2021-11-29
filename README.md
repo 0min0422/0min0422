@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 🥇 I am a freshman majoring in computer
 - 🚅 My hometown is Jeonju, Jeollabuk-do in Korea
 
-
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=0min0422" height="142">
 
 ### What I Like
