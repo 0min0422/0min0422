@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 
 ### Who Am I
 
+- 🥇 I am a freshman majoring in computer
+- 🚅 My hometown is Jeonju, Jeollabuk-do in Korea
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnwn8829">
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Tech&badges=Python,Java,C)](https://github.com/kijepark)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=0min0422" height="142">
 
-- 🥇 I am a freshman majoring in computer
-- 🚅 My hometown is Jeonju, Jeollabuk-do in Korea
 
 
 ### What I Like
